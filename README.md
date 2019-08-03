@@ -1,7 +1,7 @@
 # CALCULADORA FINANCEIRA
 _ _ _
 
-    O projeto foi criado com o objetivo como obtenção de aprendizado pois foi focado em aprender códigos novos seguindo a lógica da funcionalidade de uma calculadora e suas validações em jQuery.
+    O projeto foi criado com o objetivo a obtenção de aprendizado, pois foi focado em aprender códigos novos seguindo a lógica da funcionalidade de uma calculadora e suas validações em jQuery.
 
 
 ## Tecnologias utilizadas
