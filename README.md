@@ -1,11 +1,8 @@
 # CALCULADORA FINANCEIRA
-_ _ _
 
-    O projeto foi criado com o objetivo a obtenção de aprendizado, pois foi focado em aprender códigos novos seguindo a lógica da funcionalidade de uma calculadora e suas validações em jQuery.
-
+O projeto foi criado com o objetivo a obtenção de aprendizado, pois foi focado em aprender códigos novos seguindo a lógica da funcionalidade de uma calculadora e suas validações em jQuery.
 
 ## Tecnologias utilizadas
-_ _ _
 
 ### HTML 
 
@@ -14,7 +11,6 @@ _ _ _
 ### CSS 
 
 - Para a estilização do projeto, foi utilizado a linguagem CSS para uma aparência agradável, sem uso de frameworks,
-
 
 ### jQuery
 
